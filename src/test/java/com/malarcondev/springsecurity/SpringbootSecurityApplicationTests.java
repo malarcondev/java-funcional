@@ -1,4 +1,4 @@
-package com.malarcondev.springbootsecurity;
+package com.malarcondev.springsecurity;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
